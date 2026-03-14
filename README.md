@@ -26,6 +26,7 @@ https://carlitoslocacoes.com/pulse/xs1.php?valor=10&compra_id=3691
 - Para criar novos links de pagamento, utilize:
 https://carlitoslocacoes.com/pulse/create.php
 
+chave_extra:xs2_portal_extra
 
 Esse endpoint gera o arquivo `xs1.php`.  
 Na prática, cada usuário terá seu próprio arquivo `username.php` (ex.: `carlitoslocacoes.com/pulse/carlito.php`).  
