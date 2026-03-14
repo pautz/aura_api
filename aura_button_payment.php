@@ -2,8 +2,8 @@
 session_start();
 
 // Exemplo de valores
-$valorCompra = 10;
-$compraId    = 3695;
+$valorCompra = 10; // defina o valor somentew inteiro com intval $valorCompra = intval($imovel['preco']);
+$compraId    = 3695; // $imovel['id'];
 $usernameaura = "carlitopautz_farolqr";
 
 // Link de pagamento Aura (ajuste xs1 para o username do usuário)
