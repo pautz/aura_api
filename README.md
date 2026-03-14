@@ -31,6 +31,7 @@ chave_extra:xs2_portal_extra
 Esse endpoint gera o arquivo `xs1.php`.  
 Na prática, cada usuário terá seu próprio arquivo `username.php` (ex.: `carlitoslocacoes.com/pulse/carlito.php`).  
 Portanto, basta alterar no link `xs1` para o **username** correspondente.
+
 carlitoslocacoes.com/pulse/carlito.php?valor=$valor&compra_id=$compra_id
 ---
 
