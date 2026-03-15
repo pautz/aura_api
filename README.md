@@ -1,7 +1,8 @@
 # API de Pagamentos em Aura
 
 Este projeto permite realizar pagamentos em **Aura** através de URLs simples que geram QR Codes e se conectam à API `aura_new_api.php`.
-
+Primeiramente se cadastre em https://carlitoslocacoes.com/farolqr/site/register_odonto2.php 
+segundamente faça sua identificação em https://carlitoslocacoes.com/farolqr/site/identificacao_farolqr.php depois leia abaixo
 ---
 
 ## 🚀 Estrutura da URL
